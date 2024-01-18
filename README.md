@@ -1,2 +1,1 @@
-git add README.md
-git commit –m "repo initialization"
+Hello There! I’m currently studying front-end development!
